@@ -18,3 +18,9 @@ These are required for all guides
 - Admin user account
 - Internet Access
 - [NAPLAN Locked Down Browser 2023](https://pages.assessform.edu.au/uploads/files/Release/NAP%20Locked%20down%20browser%20-%20Release%20-%205.2.2.msi)
+
+### ChromeOS
+- Not Supported
+
+### iPadOS
+- Not Supported
