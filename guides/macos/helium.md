@@ -33,3 +33,6 @@ You should now see a window that looks like this
 ![Helium on macOS Ventura](../../assets/helium-window-1.png)
 
 ### Step 2
+Open the *Location* menu from the Menu Bar, then select *Open Web URL*, or press *Command+L*
+
+![Helium Location Menu](../../assets/helium-location.png)
