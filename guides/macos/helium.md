@@ -56,3 +56,5 @@ Open the NAPLAN locked down browser, but don't join the test. We will now test t
 Press *Command+Q* on your keyboard. You should see a popup asking for an admin password, and Helium Tools. If you can see Helium Tools, good job, you can now join the test.
 
 *I would get a screenshot for this tutorial, but it seems that NAPLAN locked down browser prevents screenshots.*
+
+### [Return Home](../../README.md)

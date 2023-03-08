@@ -51,3 +51,5 @@ You should now be on the lock screen! Click *Switch user* and log into the guest
 You can now use this bypass in a test!
 
 *I would get a screenshot for this tutorial, but it seems that NAPLAN locked down browser prevents screenshots.*
+
+### [Return Home](../../README.md)
