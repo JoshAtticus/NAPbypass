@@ -1,7 +1,7 @@
 # NAPbypass
 How not to use the NAPLAN Locked Down Browser (2023)
 
-[![Deploy Website](https://github.com/JoshAtticus/NAPbypass/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/JoshAtticus/NAPbypass/actions/workflows/jekyll-gh-pages.yml) [![Guides](https://badgen.net/badge/Guides/2/green)](https://joshatticus.is-a.dev/NAPbypass/guides/)
+[![Deploy Website](https://github.com/JoshAtticus/NAPbypass/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/JoshAtticus/NAPbypass/actions/workflows/jekyll-gh-pages.yml) [![Guides](https://badgen.net/badge/Guides/2/green)](https://joshatticus.is-a.dev/NAPbypass/guides/) ![Windows Guides](https://badgen.net/badge/Windows%20Guides/0/blue?icon=windows) ![macOS Guides](https://badgen.net/badge/macOS%20Guides/2/grey?icon=apple)
 > **Warning**
 >
 > Please do not use this to cheat or violate academic integrity. This is a proof of concept to show how useless NAPLAN lockdown browser is.
