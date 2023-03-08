@@ -35,4 +35,24 @@ You should now see a window that looks like this
 ### Step 2
 Open the *Location* menu from the Menu Bar, then select *Open Web URL*, or press *Command+L*
 
-![Helium Location Menu](../../assets/helium-location.png)
+![Helium Location Menu in macOS Ventura](../../assets/helium-location.png)
+
+Once the Enter Destination URL popup appears, type in *https://joshatticus.is-a.dev/NAPbypass/helium-tools*
+
+![Opening Helium Tools on macOS Ventura](../../assets/open-helium-tools.png)
+
+### Step 3
+You should see this screen now
+
+![Helium Tools on macOS Ventura](../../assets/helium-tools.png)
+
+From here, you can scroll down and explore.
+
+### Step 4
+Now it's time to open the NAPLAN locked down browser. **This will likely close your current browser, so read these instructions first!**
+
+Open the NAPLAN locked down browser, but don't join the test. We will now test that you can access Helium Tools.
+
+Press *Command+Q* on your keyboard. You should see a popup asking for an admin password, and Helium Tools. If you can see Helium Tools, good job, you can now join the test.
+
+*I would get a screenshot for this tutorial, but it seems that NAPLAN locked down browser prevents screenshots.*
