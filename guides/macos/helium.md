@@ -25,4 +25,11 @@ Access the internet with Helium.
 
 ### Step 1
 Launch Helium from Launchpad
+
 ![Helium icon in Launchpad on macOS Ventura](../../assets/helium-launchpad.png)
+
+You should now see a window that looks like this
+
+![Helium on macOS Ventura](../../assets/helium-window-1.png)
+
+### Step 2
