@@ -24,3 +24,5 @@ These are required for all guides
 
 ### iPadOS
 - Not Supported
+
+## [See the guides](/guides/index.md)
