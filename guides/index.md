@@ -17,8 +17,4 @@ These are required for all guides
 ### Windows (Guides W.I.P)
 - Guides W.I.P
 
-### ChromeOS
-- Not Supported
-
-### iPadOS
-- Not Supported
+### [Return Home](../../README.md)

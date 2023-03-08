@@ -15,11 +15,6 @@ Use a guest user for access to all apps on your computer
 ### Windows
 - Not Supported
 
-### ChromeOS
-- Not Supported
-
-### iPadOS
-- Not Supported
 
 ## Guide
 

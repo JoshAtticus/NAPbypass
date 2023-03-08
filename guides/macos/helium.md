@@ -15,11 +15,6 @@ Access the internet with Helium.
 ### Windows
 - Not Supported
 
-### ChromeOS
-- Not Supported
-
-### iPadOS
-- Not Supported
 
 ## Guide
 
