@@ -8,7 +8,11 @@ How not to use the NAPLAN Locked Down Browser (2023)
 These are required for all guides
 
 ### macOS
-- [Helium Bypass](macos/helium.md)
+- [Helium Bypass](macos/helium.md) (Mini Web Browser)
+- Guest User Bypass (W.I.P, Requires MacBook with Touch ID button and macOS Ventura, most unrestricted)
+- Microsoft Edge Dev Bypass (W.I.P)
+- Android File Transfer Bypass (W.I.P, requires Android Phone and USB cable)
+- Force Quit Bypass (W.I.P, only allows unrestricted apps)
 
 ### Windows (Guides W.I.P)
 - Guides W.I.P
