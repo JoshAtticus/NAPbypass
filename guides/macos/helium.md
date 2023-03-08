@@ -7,7 +7,7 @@ Access the internet with Helium.
 ## Requirements
 ### macOS
 - macOS 10.15.4 Catalina or later (Only Ventura is tested!)
-- Admin user account (for most guides)
+- Admin user account
 - Internet access
 - [Helium 1.9](https://github.com/JadenGeller/Helium/releases/download/1.9/Helium.app.zip)
 - [NAPLAN Locked Down Browser 2023](https://pages.assessform.edu.au/uploads/files/Release/NAP%20Locked%20down%20browser%20-%20Release%20-%205.3.0.pkg)
