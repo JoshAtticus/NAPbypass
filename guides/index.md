@@ -15,4 +15,6 @@ How not to use the NAPLAN Locked Down Browser (2023)
 ### Windows (Guides W.I.P)
 - Guides W.I.P
 
+### [Not sure which guide to pick?](chooser.md)
+
 ### [Return Home](../../README.md)
