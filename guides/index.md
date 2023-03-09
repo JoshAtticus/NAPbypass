@@ -10,9 +10,10 @@ These are required for all guides
 ### macOS
 - [Helium Bypass](macos/helium.md) (Mini Web Browser)
 - [Guest User Bypass](macos/guest.md) (Requires MacBook with Touch ID button and macOS Ventura, most unrestricted)
-- Microsoft Edge Dev Bypass (W.I.P)
+- [Microsoft Edge Dev Bypass](macos/edgedev.md) (Allows access to New Bing)
 - Android File Transfer Bypass (W.I.P, requires Android Phone and USB cable)
-- Force Quit Bypass (W.I.P, only allows unrestricted apps)
+- ~~Force Quit Bypass (W.I.P, only allows unrestricted apps)~~ Obsoleted by Spotlight Search Bypass.
+- Spotlight Search Bypass (W.I.P, allows access to settings, siri suggestions and unrestricted apps)
 
 ### Windows (Guides W.I.P)
 - Guides W.I.P
