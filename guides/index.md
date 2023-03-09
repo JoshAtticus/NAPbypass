@@ -4,9 +4,6 @@ How not to use the NAPLAN Locked Down Browser (2023)
 >
 > Please do not use this to cheat or violate academic integrity. This is a proof of concept to show how useless NAPLAN lockdown browser is.
 
-## Base Requirements
-These are required for all guides
-
 ### macOS
 - [Helium Bypass](macos/helium.md) (Mini Web Browser)
 - [Guest User Bypass](macos/guest.md) (Requires MacBook with Touch ID button and macOS Ventura, most unrestricted)
