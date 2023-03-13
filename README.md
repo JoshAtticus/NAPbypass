@@ -19,3 +19,4 @@ How not to use the NAPLAN Locked Down Browser (2023)
 - [NAPLAN Locked Down Browser 2023](https://pages.assessform.edu.au/uploads/files/Release/NAP%20Locked%20down%20browser%20-%20Release%20-%205.2.2.msi)
 
 ## [See the guides](/guides/index.md)
+## [Join our Discord](https://discord.gg/nn2JKfH6MV)
