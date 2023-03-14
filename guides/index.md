@@ -12,8 +12,8 @@ How not to use the NAPLAN Locked Down Browser (2023)
 - ~~Force Quit Bypass (W.I.P, only allows unrestricted apps)~~ Obsoleted by Spotlight Search Bypass.
 - Spotlight Search Bypass (W.I.P, allows access to settings, siri suggestions and unrestricted apps)
 
-### Windows (Guides W.I.P)
-- Guides W.I.P
+### Windows 
+- Desktops.exe bypass (W.I.P, glitchy)
 
 ### [Not sure which guide to pick?](chooser.md)
 
