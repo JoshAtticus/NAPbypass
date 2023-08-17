@@ -4,9 +4,11 @@ Use a guest user for access to all apps on your computer
 >
 > Please do not use this to cheat or violate academic integrity. This is a proof of concept to show how useless NAPLAN lockdown browser is.
 
+
+
 ## Requirements
 ### macOS
-- macOS 13.0 Ventura or later (Guest user is disabled by NAPLAN Locked Down browser on older versions)
+- macOS 13.0 Ventura or later **(Confirmed working on macOS Sonoma Beta!!)** (Guest user is disabled by NAPLAN Locked Down browser on older versions)
 - Guest User enabled in System Settings
 - MacBook Air/Pro with Touch ID enabled
 - Internet access
