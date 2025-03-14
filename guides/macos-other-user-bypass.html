@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>macOS Other User Bypass - NAPbypass</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header class="page-header">
+        <h1>macOS Other User Bypass</h1>
+        <p>How to bypass NAP Lockdown browser using macOS user accounts and a handy tool</p>
+    </header>
+    
+    <main class="main-content">
+        <div class="guide-content">
+            <!-- Guide content goes here -->
+            <i>Note that if you have Filevault enabled, you will not be able to access any of your apps or files in the other user account, rendering this guide effectively useless</i>
+            <br>
+            <i>Also note that this guide has a *very* small chance of you getting stuck in your second user account if NAPDisabler crashes (which it shouldn't) and NAP disables the lock screen now that NAPDisabler is no longer protecting it. If this happens, force restart your computer.</i>
+
+            <h2>Requirements</h2>
+            <ul>
+                <li>Latest lockdown browser</li>
+                <li>Admin user account</li>
+                <li><a href="/assets/NAPDisabler.dmg">NAPDisabler Tool</a> - Click to download</li>
+            </ul>
+            
+            <h2>Steps</h2>
+            <ol>
+                <li>Open the NAPDisabler.dmg file and drag NAPDisabler to Applications if you haven't already</li>
+                <li>Go to your Applications folder in Finder, right click NAPDisabler and click Open</li>
+                <li>If you are unable to open the app, you may need to go to Settings > Privacy & Security > Scroll Down > Open Anyways; Don't worry, the app is safe, I just didn't pay for a $150 code signing signature so Apple makes my life harder.</li>
+                <li>Once the app is open, you don't have to do anything, just make sure Quickuser and Enablelockscreen are both enabled, then open Settings > Users & Groups > Add User and create a new user account</li>
+                <li>Switch to the new user and complete the setup wizard, then sign out and switch back to your current account</li>
+                <li>Open NAP Locked down browser on your computer, accept the prompts to close everything</li>
+                <li>To switch to your other user, press the Touch ID button as you would (unsure for macs that don't have touch id sorry), hover over your profile picture and switch to your new user</li>
+                <li>You can now freely open any apps you want! To switch back, press the touch id button again.</li>
+            </ol>
+            
+            <h2>Video Tutorial</h2>
+            <i>ps. sorry if this video is garbage I filmed it at like 2am in the morning</i>
+            <div class="video-container">
+                <video controls>
+                    <source src="/assets/174024306~2_compressed.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <p class="video-caption">Video demonstration of the macOS Other User Bypass method</p>
+            </div>
+        </div>
+        
+        <div class="cta-buttons">
+            <a href="index.html" class="btn">Back to Guides</a>
+            <a href="../index.html" class="btn">Back to Home</a>
+        </div>
+    </main>
+    
+    <footer>
+        <p>NAPbypass is maintained by <a href="https://github.com/JoshAtticus">JoshAtticus</a></p>
+    </footer>
+    
+    <script src="../js/main.js"></script>
+</body>
+</html>
